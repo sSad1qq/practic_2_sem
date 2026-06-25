@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task1/main.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task1/main.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1/main.cpp",
+  "output": "CMakeFiles/repos.dir/task1/main.cpp.o"
+},
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task1/mod.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task1/mod.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1/mod.cpp",
+  "output": "CMakeFiles/repos.dir/task1/mod.cpp.o"
+},
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task2/main.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task2/main.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2/main.cpp",
+  "output": "CMakeFiles/repos.dir/task2/main.cpp.o"
+},
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task2/mod.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task2/mod.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2/mod.cpp",
+  "output": "CMakeFiles/repos.dir/task2/mod.cpp.o"
+},
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task3/main.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task3/main.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3/main.cpp",
+  "output": "CMakeFiles/repos.dir/task3/main.cpp.o"
+},
+{
+  "directory": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/build",
+  "command": "/usr/bin/clang++  -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task1 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task2 -I/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3 -g -arch arm64 -o CMakeFiles/repos.dir/task3/mod.cpp.o -c /Users/daniildyatlov/develop/git/prac/practic_2_sem/task3/mod.cpp",
+  "file": "/Users/daniildyatlov/develop/git/prac/practic_2_sem/task3/mod.cpp",
+  "output": "CMakeFiles/repos.dir/task3/mod.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/repos.dir/task1/main.cpp.o CMakeFiles/repos.dir/task1/mod.cpp.o CMakeFiles/repos.dir/task2/main.cpp.o CMakeFiles/repos.dir/task2/mod.cpp.o CMakeFiles/repos.dir/task3/main.cpp.o CMakeFiles/repos.dir/task3/mod.cpp.o -o repos

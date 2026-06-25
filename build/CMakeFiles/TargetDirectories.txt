@@ -1,0 +1,3 @@
+/Users/daniildyatlov/develop/git/prac/practic_2_sem/build/CMakeFiles/repos.dir
+/Users/daniildyatlov/develop/git/prac/practic_2_sem/build/CMakeFiles/edit_cache.dir
+/Users/daniildyatlov/develop/git/prac/practic_2_sem/build/CMakeFiles/rebuild_cache.dir
