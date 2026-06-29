@@ -1,2 +1,4 @@
 ﻿  main.cpp
-  task3.vcxproj -> C:\Users\dyatl\source\repos\task3\x64\Debug\task3.exe
+C:\Users\dyatl\source\repos\task3\main.cpp(92,2): error C3872: "U+b0": этот символ недопустим в идентификаторе
+C:\Users\dyatl\source\repos\task3\main.cpp(94,1): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+C:\Users\dyatl\source\repos\task3\main.cpp(92,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
